@@ -3,7 +3,7 @@ layout: post
 title: 'Interpretation: A Simulation Lens'
 date: '2023-06-08 15:04:49 +1200'
 categories: jekyll update
-published: false
+published: true
 ---
 In the philosophy of science, the concept of a self-immunizing hypothesis refers to a hypothesis that is formulated in such a way that it is resistant to being falsified or rejected by empirical evidence. It is a notion introduced by philosopher Karl Popper as part of his critical rationalist approach to scientific inquiry.
 
