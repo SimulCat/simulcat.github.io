@@ -1,29 +1,18 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2023-06-08 15:04:49 +1200
+title: 'Interpretation: A Simulation Lens'
+date: '2023-06-08 15:04:49 +1200'
 categories: jekyll update
+published: false
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+In the philosophy of science, the concept of a self-immunizing hypothesis refers to a hypothesis that is formulated in such a way that it is resistant to being falsified or rejected by empirical evidence. It is a notion introduced by philosopher Karl Popper as part of his critical rationalist approach to scientific inquiry.
 
-Jekyll requires blog post files to be named according to the following format:
+According to Popper, scientific theories should be subject to rigorous testing and should be potentially falsifiable. A scientific hypothesis or theory can be considered falsifiable if it is possible to conceive of an empirical observation or experiment that could potentially demonstrate its falsehood. This is what distinguishes scientific claims from unfalsifiable or non-scientific claims, such as those of metaphysics or pseudoscience.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+However, Popper recognized that some scientific theories or hypotheses could evade falsification by incorporating mechanisms or ad hoc modifications that protect them from being disproven. These are what he referred to as self-immunizing hypotheses. They are formulated in a way that makes them flexible enough to accommodate contrary evidence or anomalies without being abandoned.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+A self-immunizing hypothesis typically employs auxiliary hypotheses or additional assumptions that are introduced to shield the core hypothesis from potential falsification. These auxiliary hypotheses can be adjusted or modified when faced with empirical evidence that contradicts the main hypothesis, thereby protecting it from outright rejection. This process can make the hypothesis resistant to being fully tested or discarded based on empirical observations.
 
-Jekyll also offers powerful support for code snippets:
+Popper considered self-immunizing hypotheses as problematic because they weaken the critical nature of scientific inquiry. If a hypothesis is constructed in a way that it can always evade falsification, it becomes less scientifically meaningful and less open to empirical scrutiny. According to Popper, the strength of scientific theories lies in their vulnerability to falsification, as this allows for the continual improvement and refinement of scientific knowledge.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+It is worth noting that while the concept of self-immunizing hypotheses highlights a potential issue in scientific inquiry, it does not imply that all unfalsifiable claims are inherently unscientific. For example, certain aspects of scientific theories, such as foundational assumptions or metaphysical principles, may not be directly falsifiable but can still provide a valuable framework for scientific investigation. The key is to distinguish between scientific claims that are open to empirical testing and those that are immune to it.
