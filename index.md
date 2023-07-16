@@ -1,123 +1,18 @@
 ---
 layout: default
+published: true
 ---
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+##
+Simulation
+##
 
 
-### Definition lists can be used with HTML syntax.
+The philosopher Karl Popper, descibed the problem of self-immunizing hypothesis, as a hypotheisis that is formulated to evade falsification through empirical evidence. 
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+However, Popper recognized that some scientific theories or hypotheses could evade falsification by incorporating mechanisms or ad hoc modifications that protect them from being disproven. These are what he referred to as self-immunizing hypotheses. They are formulated in a way that makes them flexible enough to accommodate contrary evidence or anomalies without being abandoned.
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+A self-immunizing hypothesis typically employs auxiliary hypotheses or additional assumptions that are introduced to shield the core hypothesis from potential falsification. These auxiliary hypotheses can be adjusted or modified when faced with empirical evidence that contradicts the main hypothesis, thereby protecting it from outright rejection. This process can make the hypothesis resistant to being fully tested or discarded based on empirical observations.
 
-```
-The final element.
-```
+Popper considered self-immunizing hypotheses as problematic because they weaken the critical nature of scientific inquiry. If a hypothesis is constructed in a way that it can always evade falsification, it becomes less scientifically meaningful and less open to empirical scrutiny. According to Popper, the strength of scientific theories lies in their vulnerability to falsification, as this allows for the continual improvement and refinement of scientific knowledge.
+
+It is worth noting that while the concept of self-immunizing hypotheses highlights a potential issue in scientific inquiry, it does not imply that all unfalsifiable claims are inherently unscientific. For example, certain aspects of scientific theories, such as foundational assumptions or metaphysical principles, may not be directly falsifiable but can still provide a valuable framework for scientific investigation. The key is to distinguish between scientific claims that are open to empirical testing and those that are immune to it.
