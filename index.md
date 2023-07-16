@@ -2,9 +2,6 @@
 layout: default
 published: true
 ---
----
-layout: default
----
 
 ## A Simulation Lens
 
