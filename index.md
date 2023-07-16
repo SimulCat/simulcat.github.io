@@ -2,14 +2,17 @@
 layout: default
 published: true
 ---
-##
-Simulation
-##
+---
+layout: default
+---
+
+## Simulate
 
 
-The philosopher Karl Popper, descibed the problem of self-immunizing hypothesis, as a hypotheisis that is formulated to evade falsification through empirical evidence. 
+The philosopher Karl Popper coined the term "self-immunizing hypothesis", to denote a scientific hypotheisis that is formulated so as to evade falsification by incorporating mechanisms or ad-hoc modifications that have the effect of make the hypotheisis flexible enough to accommodate contrary evidence or anomalies without being abandoned.
 
-However, Popper recognized that some scientific theories or hypotheses could evade falsification by incorporating mechanisms or ad hoc modifications that protect them from being disproven. These are what he referred to as self-immunizing hypotheses. They are formulated in a way that makes them flexible enough to accommodate contrary evidence or anomalies without being abandoned.
+
+However, Popper recognized that some scientific theories or hypotheses could evade falsification by incorporating mechanisms or ad hoc modifications that protect them from being disproven. These are what he referred to as self-immunizing hypotheses. They are formulated in a way that m
 
 A self-immunizing hypothesis typically employs auxiliary hypotheses or additional assumptions that are introduced to shield the core hypothesis from potential falsification. These auxiliary hypotheses can be adjusted or modified when faced with empirical evidence that contradicts the main hypothesis, thereby protecting it from outright rejection. This process can make the hypothesis resistant to being fully tested or discarded based on empirical observations.
 
