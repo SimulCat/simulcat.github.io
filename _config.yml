@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Simulation Cat
+title: K_Cat Simulations in VRChat
 email: hotquanta@yahoo.com
 description: >- # this means to ignore newlines until "baseurl:"
   Background on a series of VRChat simulation worlds.
