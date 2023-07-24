@@ -21,7 +21,7 @@
 title: Simulation Cat
 email: hotquanta@yahoo.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A blog describing VR experiences and simulations intended to expand on ideas and principles behind the development of quantum theory.
+  Background on a series of VRChat simulation worlds.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://simulcat.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ""
