@@ -1,0 +1,27 @@
+{
+    "1": {
+        "url":"https://simulcat.github.io/quantmolecules/slides/a0.jpg",
+        "caption":"The original experiemnt at the Vienna Center of Quantum Science and Technology, University of Vienna, published in Nature Nanotechnology March 2012."},
+    "2": {
+        "url":"https://simulcat.github.io/quantmolecules/slides/n1.jpg",
+        "caption":"The experiment demonstrates how massive particles produce interference patterns consistent with the quantum principle of wave-particle duality."},
+    "3": {
+        "url":"https://simulcat.github.io/quantmolecules/slides/n2.jpg",
+        "caption":"A feature of this experiment is that it shows how such patterns form one particle at a time."},
+    "4": {
+        "url":"https://simulcat.github.io/quantmolecules/slides/a1.jpg",
+        "caption":"The molecular source utilses a laser that evaporates molecules off a thin molecular coating on a window inside a vacuum chamber."},
+    "5": {
+        "url":"https://simulcat.github.io/quantmolecules/slides/a2.jpg",
+        "caption":"A 3μm collimation slit filters the molecuels into a narrow beam. "},
+    "6": {
+        "url":"https://simulcat.github.io/quantmolecules/slides/a3.jpg",
+        "caption":"After about 500mm (L1), the particles are incident on a grating with 100nm aperture spacing."},
+    "7": {
+        "url":"https://simulcat.github.io/quantmolecules/slides/a4.jpg",
+        "caption":"After another 560mm (L2), the scattered beam is deposited on a target window where the molecules are illumated by an infrared laser."},
+    "8": {
+        "url":"https://simulcat.github.io/quantmolecules/slides/a5.jpg",
+        "caption":"Under the infrared laser the deposited molecules fluoresce, and the resulting pattern is imaged by a CCD camera. "}
+
+}
