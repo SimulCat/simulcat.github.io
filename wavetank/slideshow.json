@@ -1,9 +1,9 @@
 {
     "slides":"Overview",
     "1": {
-        "img":2,
+        "img":"1",
         "caption":"The original experiemnt at the Vienna Center of Quantum Science and Technology, University of Vienna, published in Nature Nanotechnology March 2012."},
     "2": {
-        "img":"4",
+        "img":"2",
         "caption":"The experiment demonstrates how massive particles produce interference patterns consistent with the quantum principle of wave-particle duality."}
 }
