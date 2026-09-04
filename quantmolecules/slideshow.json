@@ -1,7 +1,13 @@
 {
+  "slideCount": 8,
   "captions": [
     "An image of a fringe pattern produced by quantum scattering of molecules in an experiment at the Vienna Centre of Quantum Science and Technology, University of Vienna, as reported in Nature Nanotechnology, March 2012.",
     "The experiment shows that a beam of molecules shot through a fine grating produces a distinctive fringe pattern consistent with the predictions of quantum theory.",
-    "A feature of this experiment is that it shows how such patterns form one particle at a time."
+    "A feature of this experiment is that it shows how such patterns form one particle at a time.",
+    "The molecular source utilises a laser to evaporate molecules from a thin molecular coating on a window inside a vacuum chamber.",
+    "The molecules then pass through a 3μm collimation slit, forming a beam and sent toward the grating",
+    "After about 500mm (L1), the particles are incident on a grating with 100nm aperture spacing.",
+    "After another 560mm (L2), the scattered beam is deposited on a target window where the molecules are illuminated by an infrared laser.",
+    "Under infrared laser excitation, the deposited molecules fluoresce, and the resulting pattern is imaged by a CCD camera."
   ]
 }
